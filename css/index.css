@@ -243,3 +243,9 @@ img {
 hr {
   border-top: 2px dashed #C0C0C0;
 }
+.btn2 {
+  background-color: teal;
+  border-radius: 15px;
+  color: white;
+  padding: 5px 30px;
+}
